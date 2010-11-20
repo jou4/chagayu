@@ -10,6 +10,10 @@ See sample/sample.clj.
 
 ## Installation
 
+You may have to ensure [Leiningen](http://github.com/technomancy/leiningen) is installed before.
+
+If you are ready, clone this repository and execute <code>lein jar</code>.
+
     $ git clone git://github.com/jou4/chagayu.git
     $ cd chagayu
     $ lein jar
