@@ -19,5 +19,5 @@ Then include chagayu.jar to classpath.
 
 ## License
 
-Copyright (C) 2010 ¾å»ÊÏÂÁ±(K.Kamitsukasa)
+Copyright (C) 2010 ä¸Šå¸å’Œå–„(K.Kamitsukasa)
 Licensed under the MIT License (http://www.opensource.org/licenses/mit-license.php)
